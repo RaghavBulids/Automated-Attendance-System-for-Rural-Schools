@@ -20,87 +20,81 @@ An offline, lightweight **QR-based Attendance System** designed for rural school
 - Mobile App (Android/iOS)  
 - Google Sheets/Excel API sync  
 
+You can run it on the laptop and try some id's like this one... 
 
-you can run it on the laptop and try some id's like this one... 
+Class 9
 
-const studentDatabase = {
-            '9': {
-                'A': [
-                    { id: "9A001", name: "Ramesh Kumar" },
-                    
-                    { id: "9A002", name: "Sita Devi" },
-                    
-                    { id: "9A003", name: "Amit Sharma" },
-                    
-                    { id: "9A004", name: "Priya Singh" },
-                    
-                    { id: "9A005", name: "Vikash Yadav" }
-                ],
+Section A
 
-                
-                'B': [
-                    { id: "9B001", name: "Sunita Kumari" },
-                    
-                    { id: "9B002", name: "Anil Verma" },
-                    
-                    { id: "9B003", name: "Sonal Patel" },
-                    
-                    { id: "9B004", name: "Raghav UB" },
-                    
-                    { id: "9B005", name: "Meera Jain" }
-                ],
+Ramesh Kumar (ID: 9A001)
 
-                
-                'C': [
-                    { id: "9C001", name: "Rohit Gupta" },
-                    
-                    { id: "9C002", name: "Kavya Reddy" },
-                    
-                    { id: "9C003", name: "Arjun Singh" },
-                    
-                    { id: "9C004", name: "Pooja Sharma" },
-                    
-                    { id: "9C005", name: "Deepak Kumar" }
-                ]
-            },
+Sita Devi (ID: 9A002)
 
-            
-            '10': {
-                'A': [
-                    { id: "10A001", name: "Rajesh Patel" },
-                    
-                    { id: "10A002", name: "Sneha Agarwal" },
-                    
-                    { id: "10A003", name: "Manoj Kumar" },
-                    
-                    { id: "10A004", name: "Ritu Singh" },
-                    
-                    { id: "10A005", name: "Suresh Yadav" }
-                ],
+Amit Sharma (ID: 9A003)
 
-                
-                'B': [
-                    { id: "10B001", name: "Anjali Sharma" },
-                    
-                    { id: "10B002", name: "Karan Verma" },
-                    
-                    { id: "10B003", name: "Nisha Gupta" },
-                    
-                    { id: "10B004", name: "Rahul Jain" },
-                    
-                    { id: "10B005", name: "Divya Reddy" }
-                ],
+Priya Singh (ID: 9A004)
 
-                
-                'C': [
-                    { id: "10C001", name: "Ashok Singh" },
-                    
-                    { id: "10C002", name: "Geeta Kumari" },
-                    
-                    { id: "10C003", name: "Vinod Sharma" },
-                    
-                    { id: "10C004", name: "Sunita Patel" },
-                    
-                    { id: "10C005", name: "Mukesh Kumar" }
-                    
+Vikash Yadav (ID: 9A005)
+
+Section B
+
+Sunita Kumari (ID: 9B001)
+
+Anil Verma (ID: 9B002)
+
+Sonal Patel (ID: 9B003)
+
+Raghav UB (ID: 9B004)
+
+Meera Jain (ID: 9B005)
+
+Section C
+
+Rohit Gupta (ID: 9C001)
+
+Kavya Reddy (ID: 9C002)
+
+Arjun Singh (ID: 9C003)
+
+Pooja Sharma (ID: 9C004)
+
+Deepak Kumar (ID: 9C005)
+
+Class 10
+
+Section A
+
+Rajesh Patel (ID: 10A001)
+
+Sneha Agarwal (ID: 10A002)
+
+Manoj Kumar (ID: 10A003)
+
+Ritu Singh (ID: 10A004)
+
+Suresh Yadav (ID: 10A005)
+
+Section B
+
+Anjali Sharma (ID: 10B001)
+
+Karan Verma (ID: 10B002)
+
+Nisha Gupta (ID: 10B003)
+
+Rahul Jain (ID: 10B004)
+
+Divya Reddy (ID: 10B005)
+
+Section C
+
+Ashok Singh (ID: 10C001)
+
+Geeta Kumari (ID: 10C002)
+
+Vinod Sharma (ID: 10C003)
+
+Sunita Patel (ID: 10C004)
+
+Mukesh Kumar (ID: 10C005)
                 ]
