@@ -1,100 +1,96 @@
-# Automated Attendance System for Rural Schools
+# 🎓 Automated Attendance System for Rural Schools
 
-### 📌 Project Overview
-An offline, lightweight **QR-based Attendance System** designed for rural schools. Teachers scan student QR codes within a set timer (e.g., 15 mins); absentees are auto-marked. Data is stored locally, exported as CSV, and visualized with charts. Built with HTML, CSS, JS—optimized for low-end devices.
+## 📌 Project Overview  
+An **offline, lightweight QR-based Attendance System** designed specially for rural schools.  
+Teachers scan unique student QR codes within a set timer (e.g., 15 minutes). Students not scanned within the time are **automatically marked absent**.  
 
-### 🚀 Features
+Attendance data is stored **locally**, can be **exported as CSV**, and is **visualized with charts** for insights. Optimized for **low-end devices** and requires **no internet**.  
+
+---
+
+## 🚀 Features  
 - 📷 **QR Code Attendance** – Unique QR per student  
 - ⏳ **Custom Timer** – Auto-absent after expiry  
-- 📊 **Charts & Logs** – CSV export + attendance trends  
-- 📱 **Offline Friendly** – Works on low-end devices, minimal memory  
-- 💾 **Local Storage** – JSON + CSV export support  
+- 📊 **Charts & Logs** – CSV export + visual attendance trends  
+- 📱 **Offline Friendly** – Works on low-end devices  
+- 💾 **Local Storage** – JSON + CSV export  
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Libraries:** jsQR, Chart.js  
-- **Data Storage:** JSON, CSV
-  
-### 📝 Future Improvements
-- Cloud/Backend integration  
-- Mobile App (Android/iOS)  
-- Google Sheets/Excel API sync  
+- **Data Storage:** JSON, CSV  
 
-You can run it on the laptop and try some id's like this one... 
+---
 
-Class 9
+## 📝 Future Improvements  
+- ☁️ Cloud/Backend integration  
+- 📲 Mobile App (Android/iOS)  
+- 🔗 Google Sheets/Excel API sync  
 
-Section A
+---
 
-Ramesh Kumar (ID: 9A001)
+## 📚 Demo Student Data  
 
-Sita Devi (ID: 9A002)
+### Class 9  
 
-Amit Sharma (ID: 9A003)
+#### Section A  
+| ID     | Name         |  
+|--------|--------------|  
+| 9A001  | Ramesh Kumar |  
+| 9A002  | Sita Devi    |  
+| 9A003  | Amit Sharma  |  
+| 9A004  | Priya Singh  |  
+| 9A005  | Vikash Yadav |  
 
-Priya Singh (ID: 9A004)
+#### Section B  
+| ID     | Name          |  
+|--------|---------------|  
+| 9B001  | Sunita Kumari |  
+| 9B002  | Anil Verma    |  
+| 9B003  | Sonal Patel   |  
+| 9B004  | Raghav UB     |  
+| 9B005  | Meera Jain    |  
 
-Vikash Yadav (ID: 9A005)
+#### Section C  
+| ID     | Name         |  
+|--------|--------------|  
+| 9C001  | Rohit Gupta  |  
+| 9C002  | Kavya Reddy  |  
+| 9C003  | Arjun Singh  |  
+| 9C004  | Pooja Sharma |  
+| 9C005  | Deepak Kumar |  
 
-Section B
+---
 
-Sunita Kumari (ID: 9B001)
+### Class 10  
 
-Anil Verma (ID: 9B002)
+#### Section A  
+| ID     | Name          |  
+|--------|---------------|  
+| 10A001 | Rajesh Patel  |  
+| 10A002 | Sneha Agarwal |  
+| 10A003 | Manoj Kumar   |  
+| 10A004 | Ritu Singh    |  
+| 10A005 | Suresh Yadav  |  
 
-Sonal Patel (ID: 9B003)
+#### Section B  
+| ID     | Name          |  
+|--------|---------------|  
+| 10B001 | Anjali Sharma |  
+| 10B002 | Karan Verma   |  
+| 10B003 | Nisha Gupta   |  
+| 10B004 | Rahul Jain    |  
+| 10B005 | Divya Reddy   |  
 
-Raghav UB (ID: 9B004)
+#### Section C  
+| ID     | Name          |  
+|--------|---------------|  
+| 10C001 | Ashok Singh   |  
+| 10C002 | Geeta Kumari  |  
+| 10C003 | Vinod Sharma  |  
+| 10C004 | Sunita Patel  |  
+| 10C005 | Mukesh Kumar  |  
 
-Meera Jain (ID: 9B005)
-
-Section C
-
-Rohit Gupta (ID: 9C001)
-
-Kavya Reddy (ID: 9C002)
-
-Arjun Singh (ID: 9C003)
-
-Pooja Sharma (ID: 9C004)
-
-Deepak Kumar (ID: 9C005)
-
-Class 10
-
-Section A
-
-Rajesh Patel (ID: 10A001)
-
-Sneha Agarwal (ID: 10A002)
-
-Manoj Kumar (ID: 10A003)
-
-Ritu Singh (ID: 10A004)
-
-Suresh Yadav (ID: 10A005)
-
-Section B
-
-Anjali Sharma (ID: 10B001)
-
-Karan Verma (ID: 10B002)
-
-Nisha Gupta (ID: 10B003)
-
-Rahul Jain (ID: 10B004)
-
-Divya Reddy (ID: 10B005)
-
-Section C
-
-Ashok Singh (ID: 10C001)
-
-Geeta Kumari (ID: 10C002)
-
-Vinod Sharma (ID: 10C003)
-
-Sunita Patel (ID: 10C004)
-
-Mukesh Kumar (ID: 10C005)
-                ]
+---
