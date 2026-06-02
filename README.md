@@ -8,24 +8,16 @@ Attendance data is stored locally, can be exported as a CSV file, and is visuali
 
 ---
 
-## 🔍 How to Test the Demo Right Now
+## 🛠️ Testing the Project
+You can test the system's scanning functionality using the demo dataset by following these steps:
 
-You do not need to generate any custom data to test this project. Follow these simple steps:
+1. **Visit the Generator**: Open [The QR Code Generator](https://www.the-qrcode-generator.com/) in your browser.
+2. **Select Text Input**: Choose the **Plain Text** option on the website.
+3. **Get Demo ID**: Copy any Student **ID** from the [Demo Student Data Catalog](#-demo-student-data-catalog) section below (e.g., `9A001` or `10B003`).
+4. **Generate Code**: Paste the ID into the text box to generate the QR code.
+5. **Scan & Verify**: Use your device's camera through this application to scan the generated code and verify the attendance log.
 
-1. Open the **[Insert Your Live Demo URL Link Here]** on your mobile phone or a secondary monitor.
-2. Grant camera permissions to the application when prompted.
-3. Aim the application scanner at any of the test QR codes below to watch the system instantly log the student and update your dashboard metrics!
-
-### 📷 Test QR Codes (Scan from Screen)
-
-Open your live demo link, point your device camera at these pre-configured codes, and watch the offline local metrics update in real-time!
-
-
-| Ramesh Kumar (Class 9A) <br> **ID: 9A001** | Sneha Agarwal (Class 10A) <br> **ID: 10A002** | Karan Verma (Class 10B) <br> **ID: 10B002** |
-| :---: | :---: | :---: |
-| <img src="https://googleapis.com" width="150" height="150" alt="QR 9A001" /> | <img src="https://googleapis.com" width="150" height="150" alt="QR 10A002" /> | <img src="https://googleapis.com" width="150" height="150" alt="QR 10B002" /> |
-
-
+---
 
 ## 🚀 Features
 * **📷 QR Code Attendance** – Lightning-fast scanning matching unique student IDs.
@@ -49,6 +41,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 
 #### Section A
 
+
 | ID | Name |
 | :--- | :--- |
 | 9A001 | Ramesh Kumar |
@@ -59,6 +52,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 
 #### Section B
 
+
 | ID | Name |
 | :--- | :--- |
 | 9B001 | Sunita Kumari |
@@ -68,6 +62,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 | 9B005 | Meera Jain |
 
 #### Section C
+
 
 | ID | Name |
 | :--- | :--- |
@@ -81,6 +76,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 
 #### Section A
 
+
 | ID | Name |
 | :--- | :--- |
 | 10A001 | Rajesh Patel |
@@ -91,6 +87,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 
 #### Section B
 
+
 | ID | Name |
 | :--- | :--- |
 | 10B001 | Anjali Sharma |
@@ -100,6 +97,7 @@ Open your live demo link, point your device camera at these pre-configured codes
 | 10B005 | Divya Reddy |
 
 #### Section C
+
 
 | ID | Name |
 | :--- | :--- |
