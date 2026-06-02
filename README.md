@@ -23,7 +23,8 @@ Open your live demo link, point your device camera at these pre-configured codes
 
 | Ramesh Kumar (Class 9A) <br> **ID: 9A001** | Sneha Agarwal (Class 10A) <br> **ID: 10A002** | Karan Verma (Class 10B) <br> **ID: 10B002** |
 | :---: | :---: | :---: |
-| ![QR 9A001](https://quickchart.io) | ![QR 10A002](https://quickchart.io) | ![QR 10B002](https://quickchart.io) |
+| <img src="https://googleapis.com" width="150" height="150" alt="QR 9A001" /> | <img src="https://googleapis.com" width="150" height="150" alt="QR 10A002" /> | <img src="https://googleapis.com" width="150" height="150" alt="QR 10B002" /> |
+
 
 
 ## 🚀 Features
