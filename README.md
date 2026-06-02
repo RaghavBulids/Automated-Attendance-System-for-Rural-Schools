@@ -18,12 +18,13 @@ You do not need to generate any custom data to test this project. Follow these s
 
 ### 📷 Test QR Codes (Scan from Screen)
 
+Open your live demo link, point your device camera at these pre-configured codes, and watch the offline local metrics update in real-time!
+
 
 | Ramesh Kumar (Class 9A) <br> **ID: 9A001** | Sneha Agarwal (Class 10A) <br> **ID: 10A002** | Karan Verma (Class 10B) <br> **ID: 10B002** |
 | :---: | :---: | :---: |
-| ![QR 9A001](https://qrserver.com) | ![QR 10A002](https://qrserver.com) | ![QR 10B002](https://qrserver.com) |
+| ![QR 9A001](https://quickchart.io) | ![QR 10A002](https://quickchart.io) | ![QR 10B002](https://quickchart.io) |
 
----
 
 ## 🚀 Features
 * **📷 QR Code Attendance** – Lightning-fast scanning matching unique student IDs.
